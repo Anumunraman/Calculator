@@ -1,0 +1,7 @@
+The result of 5.0 * 8.0 = 40.0
+(5)-(6i) = (4)+(8) = (4 + 5i)*(3 +1i) = 7.0 + i
+(5+7i)/(1-6i) = (5 + 7i)*(6 - 5i) = 65.0 + i
+The result of 5.0 * 67.0 = 335.0
+The result of (4 + 6i)/(1 - i) = The result of (5 + 8i)/(4 + 7i) = 1.1692307692307693 - 0.046153846153846156i
+The result of (5 + 7i)+(4 + 6i) = 9.0 + i
+The result of (4 + 7i)*(5 - 1i) = The result of (4 + 6i)*(1+8i) = The result of (4 + 7i)*(12+ v6i) = 
